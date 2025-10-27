@@ -14,8 +14,7 @@ const APP_SHELL_ASSETS = [
     `${REPO_PATH}register.js`,
     `${REPO_PATH}manifest.json`,
     `${REPO_PATH}images/icons/192.png`,
-    `${REPO_PATH}images/icons/512.png`,
-    `${REPO_PATH}images/icons/apple-icon-180x180.png`
+    `${REPO_PATH}images/icons/512.png`
 ];
 
 // Lista de archivos CDN (rutas completas, no necesitan REPO_PATH)
