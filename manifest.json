@@ -1,0 +1,21 @@
+{
+  "name": "Gestor de Personas PWA",
+  "short_name": "GestorPWA",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0d6efd",
+  "description": "Una PWA con PouchDB para gestionar personas",
+  "icons": [
+    {
+      "src": "images/icons/192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icons/512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
